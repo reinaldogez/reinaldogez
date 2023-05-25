@@ -2,6 +2,8 @@
 As a back-end engineer with ten years of experience, I help companies improve performance and scalability by building microservices and APIs and coding readable and testable software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldogez/)
+
+Check out the principal repository of my portfolio [CQRS Showcase](https://github.com/reinaldogez/cqrs-showcase)
 <!--
 **reinaldogez/reinaldogez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
