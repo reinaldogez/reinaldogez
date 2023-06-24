@@ -1,5 +1,5 @@
 ### Hi there 👋
-As a back-end engineer, I help companies improve performance and scalability by building microservices and APIs and coding readable and testable software.
+As a Back-end engineer, I help companies to improve performance and scalability by building microservices and APIs, and coding readable and testable software.
 
 Check out the principal repository of my portfolio [CQRS Showcase](https://github.com/reinaldogez/cqrs-showcase), which is currently under development.
 
