@@ -10,4 +10,8 @@ Check out the principal repository of my portfolio [CQRS Showcase](https://githu
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img align="center" width="100" height="100" alt="Microservices" src="images/microservices.png" />
+  <img align="center" height="50" alt="Microsoft Azure" src="images/microsoft_azure_logo.png" />
+  <img align="center" height="100" alt="Domain-driven design" src="images/domain_driven_design.png" />
+  <img align="center" height="100" alt=".NET Core" src="images/net_core_logo.png" /> 
 </div>
