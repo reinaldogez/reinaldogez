@@ -1,7 +1,7 @@
 ### Hi there 👋
-As a Back-end Engineer, I'm driven by a relentless pursuit of continuous learning and the excitement of solving complex challenges. I help companies to improve performance and scalability by building microservices and APIs and coding readable and testable software.
+I'm a Back-end Engineer pivoting to Data Science & AI, driven by a relentless pursuit of continuous learning and the excitement of solving complex challenges.
 
-Check out the principal repository of my portfolio [CQRS Showcase](https://github.com/reinaldogez/cqrs-showcase), which is currently under development.
+Currently, as part of **Harvard's CS50’s Introduction to Artificial Intelligence with Python course**, I'm creating repositories for each assignment and AI agent developed. Explore and follow my evolution!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldogez/)
 
