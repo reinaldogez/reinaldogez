@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Back-end Engineer pivoting to Data Science & AI, driven by a relentless pursuit of continuous learning and the excitement of solving complex challenges.
+I'm a Back-end Engineer transitioning to Machine Learning Engineering, driven by a passion for continuous learning and the challenge of building intelligent systems.
 
 Currently, as part of **Harvard's CS50’s Introduction to Artificial Intelligence with Python course**, I'm creating repositories for each assignment and AI agent developed. Explore and follow my evolution!
 
