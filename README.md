@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm a Back-end Engineer transitioning to Machine Learning Engineering, driven by a passion for continuous learning and the challenge of building intelligent systems.
-
-Currently, as part of **Harvard's CS50’s Introduction to Artificial Intelligence with Python course**, I'm creating repositories for each assignment and AI agent developed. Explore and follow my evolution!
+Atuo há 9 anos no mercado, transformando desafios de negócio em sistemas escaláveis com .NET e Azure. Tenho vasta experiência em design de APIs, microsserviços e otimização de infraestrutura em nuvem. Formado em Ciência da Computação, atualmente curso pós-graduação em Arquitetura de Sistemas .NET na FIAP. Minha prioridade é escrever código limpo, testável e sustentável a longo prazo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldogez/)
 
